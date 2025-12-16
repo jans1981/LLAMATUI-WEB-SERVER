@@ -29,7 +29,7 @@ export PATH="$PATH:/home/namesys/llama.cpp-master/build/bin"
 
 **************************************************
 
-and now you can run python3 serverllama.py
+and now you can run python3 llamatui.py
 
 
 **********HOW TO COMPILE THE BINARY

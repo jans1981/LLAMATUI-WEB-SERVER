@@ -1,5 +1,8 @@
 # LLAMATUI-WEB-SERVER new version of servellama
 
+
+<img src="./interfaz.jpeg">
+
 ONLY CONSOLE I(NO X) INTERFACE TO LLAMA.CPP SERVER TO SERVER WEB API  
 
 HOW TO RUN THE PROGRAM
